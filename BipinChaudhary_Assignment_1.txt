@@ -1,0 +1,59 @@
+Write short notes on the following python libraries:
+
+Pandas:
+Pandas is a powerful, open-source data analysis and manipulation library for Python. It provides data structures such as DataFrames and 
+Series, making it easier to manipulate and analyze structured data.
+
+Special Features:
+- Data alignment and handling of missing data.
+- Data manipulation using functions such as merge, size, and aggregate.
+- Effective data reading and writing (e.g., CSV, Excel).
+
+
+Numpy:
+Numpy is the main framework for performing scientific calculations in Python. It provides support for large multi-dimensional arrays and 
+matrices, and provides compiled arithmetic operations for operating on these arrays.
+
+Special Features:
+- Efficient array operations and numerical computation.
+- Linear algebra, random number generation, and Fourier transform functions.
+- Integration with other scientific computing libraries.
+
+
+Tensorflow:
+TensorFlow is an open source machine learning library developed by Google. Machine learning models are trained and applied, especially
+deep learning models.
+
+Special Features:
+- A comprehensive flexible ecological system for developing and implementing ML models.
+- Support for neural networks, including CNNs, RNNs and other complex architectures.
+- Integration with TensorBoard for visualization.
+
+Keras:
+Keras is a high-level neural networks API, written in Python and capable of running on top of TensorFlow and other backends. It simplifies
+the process of developing and training deep learning models.
+
+Special Features:
+- Easy-to-use, modular, and extensible APIs.
+- Layers, models, and pre-built optimizers.
+- Support for transitional and iterative networks.
+
+Sklearn:
+Scikit-learn (or sklearn) is a machine learning library for Python that provides a simple and efficient way to analyze data and build 
+models. It is built on top of NumPy, SciPy, and matplotlib.
+
+Special Features:
+- Uses multiple supervised and unsupervised learning programs.
+- Tools for model selection, analysis, and hyperparameter tuning.
+- Easy-to-use APIs for data preprocessing and feature engineering.
+
+Pytorch:
+Pytorch is an open source deep learning framework developed by Facebook’s AI Research lab. It provides tools for building and training 
+neurons, and is known for its dynamic computer graphics and ease of use.
+
+Special Features:
+- Dynamic computational graph for flexible model design.
+- Strong support for GPU acceleration.
+- Links to other Python libraries with tools for deep learning and scientific calculations.
+
+
